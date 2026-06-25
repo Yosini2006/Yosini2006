@@ -38,7 +38,7 @@ class Developer:
 me = Developer()
 <br/>
 🌍 Connect With Me
-<p> 📍 Chennai, India <br> 📧 yosinika.r@gmail.com <br> 💼 LinkedIn: Add your profile URL here <br> 🌐 Portfolio: https://yosini2006.github.io/Portfolio </p>
+<p> 📍 Chennai, India <br> 📧 yosinika.ramesh@gmail.com <br> 💼 LinkedIn:https://www.linkedin.com/in/yosinika-ramesh-b4b3a1376 🌐 Portfolio: https://yosini2006.github.io/Portfolio </p>
 🧰 Tech Stack
 Languages
 
